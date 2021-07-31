@@ -7,8 +7,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablogomila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablogomila/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pablogomila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pablogomila" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pablogomila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablogomila/" height="30" width="40" /></a>
+<a href="https://fb.com/pablogomila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pablogomila" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

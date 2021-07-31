@@ -5,10 +5,8 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pablogomila.pablogomila)
-
 </p>
-<div align="center" size='20px'> Hi! My name is Pablo Gomila. Thank You for taking the time to view my GitHub Profile :smile: 
+<div align="center" size='20px'> Hi! My name is Pablo Gomila. Thank You for visiting my GitHub Profile :smile: 
 </div>
 
 <h2 align="center"> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 70px></h2>

@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 👋, I'm Pablo</h1>
 <h3 align="center">A passionate Full-Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Changas](https://github.com/Zven7/PG-Changas)
+- 🔭 I’m currently working on a 1 month project called [Changas](https://github.com/Zven7/PG-Changas)
 
-- 📫 How to reach me **pablogomila@protonmail.com**
+- 📫 E-mail me at **pablogomila@protonmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

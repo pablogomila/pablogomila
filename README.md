@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "310px" src="https://www.umass.edu/researchnext/sites/default/files/styles/slideshow/public/Schweik_banner1.jpg" alt="cover" />
+<img width="100%" height = "310px" src="https://coverfiles.alphacoders.com/572/thumb-1920-57213.png" alt="cover" />
 </div>
 
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
